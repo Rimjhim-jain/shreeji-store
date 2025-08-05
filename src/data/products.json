@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Men's T-Shirt",
+    "category": "Male",
+    "type": "Uppers",
+    "price": 499,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Red", "Blue"],
+    "age": "Adult",
+    "image": "https://via.placeholder.com/300x200?text=Men+TShirt"
+  },
+  {
+    "name": "Men's Jeans",
+    "category": "Male",
+    "type": "Lowers",
+    "price": 999,
+    "sizes": ["30", "32", "34", "36"],
+    "colors": ["Blue", "Black"],
+    "age": "Adult",
+    "image": "https://via.placeholder.com/300x200?text=Men+Jeans"
+  },
+  {
+    "name": "Women's Top",
+    "category": "Female",
+    "type": "Uppers",
+    "price": 599,
+    "sizes": ["S", "M", "L"],
+    "colors": ["Pink", "White"],
+    "age": "Adult",
+    "image": "https://via.placeholder.com/300x200?text=Women+Top"
+  },
+  {
+    "name": "Girls' Pajama",
+    "category": "Female",
+    "type": "Lowers",
+    "price": 399,
+    "sizes": ["S", "M"],
+    "colors": ["Purple"],
+    "age": "Teen",
+    "image": "https://via.placeholder.com/300x200?text=Girls+Pajama"
+  },
+  {
+    "name": "Boys' Underwear",
+    "category": "Children",
+    "type": "Undergarments",
+    "price": 199,
+    "sizes": ["XS", "S", "M"],
+    "colors": ["White", "Blue"],
+    "age": "Child",
+    "image": "https://via.placeholder.com/300x200?text=Boys+Underwear"
+  },
+  {
+    "name": "Baby Blanket",
+    "category": "Children",
+    "type": "Blanket",
+    "price": 699,
+    "sizes": ["Free"],
+    "colors": ["Yellow"],
+    "age": "Infant",
+    "image": "https://via.placeholder.com/300x200?text=Baby+Blanket"
+  },
+  {
+    "name": "Towel Set",
+    "category": "Others",
+    "type": "Towels",
+    "price": 299,
+    "sizes": ["Free"],
+    "colors": ["White", "Brown"],
+    "age": "All",
+    "image": "https://via.placeholder.com/300x200?text=Towel+Set"
+  },
+  {
+    "name": "Men's Night Suit",
+    "category": "Male",
+    "type": "Night wears",
+    "price": 899,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Grey", "Navy"],
+    "age": "Adult",
+    "image": "https://via.placeholder.com/300x200?text=Men+Night+Suit"
+  },
+  {
+    "name": "Women's Gown",
+    "category": "Female",
+    "type": "Night wears",
+    "price": 1199,
+    "sizes": ["M", "L"],
+    "colors": ["Red", "Peach"],
+    "age": "Adult",
+    "image": "https://via.placeholder.com/300x200?text=Women+Gown"
+  }
+]
